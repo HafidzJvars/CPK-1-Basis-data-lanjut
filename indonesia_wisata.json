@@ -1,0 +1,1000 @@
+[
+    {
+      "nama_daerah": "Kabupaten Aceh Barat",
+      "gambar": ["https://example.com/acehbarat1.jpg", "https://example.com/acehbarat2.jpg"],
+      "wisata": {
+        "restoran_kuliner_jajanan": [
+          {
+            "nama": "Mie Aceh Titi Bobrok",
+            "deskripsi": "Mie khas Aceh dengan bumbu yang unik",
+            "gambar": "https://example.com/mieaceh.jpg"
+          }
+        ],
+        "gunung": [
+          {
+            "nama": "Gunung Seulawah Agam",
+            "deskripsi": "Gunung berapi aktif dengan pemandangan indah",
+            "gambar": "https://example.com/gunungseulawah.jpg"
+          }
+        ],
+        "danau_pantai": [
+          {
+            "nama": "Pantai Lampuuk",
+            "deskripsi": "Pantai dengan pasir putih yang bersih",
+            "gambar": "https://example.com/pantailampuuk.jpg"
+          }
+        ],
+        "bangunan_bersejarah_museum_makam_wali": [
+          {
+            "nama": "Museum Aceh",
+            "deskripsi": "Museum yang menyimpan sejarah Aceh",
+            "gambar": "https://example.com/museumaceh.jpg"
+          }
+        ],
+        "mall": [
+          {
+            "nama": "Aceh Barat Mall",
+            "deskripsi": "Pusat perbelanjaan modern di Aceh Barat",
+            "gambar": "https://example.com/acehbaratmall.jpg"
+          }
+        ],
+        "hotel": [
+          {
+            "nama": "Hotel Grand Aceh",
+            "deskripsi": "Hotel bintang 4 dengan fasilitas lengkap",
+            "gambar": "https://example.com/hotelgrandaceh.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "nama_daerah": "Kota Banda Aceh",
+      "gambar": ["https://example.com/bandaaceh1.jpg", "https://example.com/bandaaceh2.jpg"],
+      "wisata": {
+        "restoran_kuliner_jajanan": [
+          {
+            "nama": "Sate Matang",
+            "deskripsi": "Sate khas Aceh yang terkenal lezat",
+            "gambar": "https://example.com/satematang.jpg"
+          }
+        ],
+        "gunung": [
+          {
+            "nama": "Gunung Cot Gapu",
+            "deskripsi": "Gunung dengan jalur trekking menantang",
+            "gambar": "https://example.com/gunungcotgapu.jpg"
+          }
+        ],
+        "danau_pantai": [
+          {
+            "nama": "Pantai Ulee Lheue",
+            "deskripsi": "Pantai terkenal yang sering dikunjungi wisatawan",
+            "gambar": "https://example.com/pantaiuleelheue.jpg"
+          }
+        ],
+        "bangunan_bersejarah_museum_makam_wali": [
+          {
+            "nama": "Museum Tsunami Aceh",
+            "deskripsi": "Museum yang menceritakan bencana tsunami 2004",
+            "gambar": "https://example.com/museumtsunami.jpg"
+          }
+        ],
+        "mall": [
+          {
+            "nama": "Banda Aceh Mall",
+            "deskripsi": "Tempat belanja dan hiburan di Banda Aceh",
+            "gambar": "https://example.com/bandaacehmall.jpg"
+          }
+        ],
+        "hotel": [
+          {
+            "nama": "Hotel Hermes Palace",
+            "deskripsi": "Hotel mewah di pusat kota Banda Aceh",
+            "gambar": "https://example.com/hermespalace.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "nama_daerah": "Kabupaten Badung",
+      "gambar": ["https://example.com/badung1.jpg", "https://example.com/badung2.jpg"],
+      "wisata": {
+        "restoran_kuliner_jajanan": [
+          {
+            "nama": "Babi Guling Pak Malen",
+            "deskripsi": "Kuliner khas Bali terkenal dengan babi guling",
+            "gambar": "https://example.com/babiguling.jpg"
+          }
+        ],
+        "gunung": [
+          {
+            "nama": "Gunung Agung",
+            "deskripsi": "Gunung tertinggi di Bali dan tempat suci Hindu",
+            "gambar": "https://example.com/gunungagung.jpg"
+          }
+        ],
+        "danau_pantai": [
+          {
+            "nama": "Pantai Kuta",
+            "deskripsi": "Pantai populer dengan ombak untuk surfing",
+            "gambar": "https://example.com/pantaikuta.jpg"
+          }
+        ],
+        "bangunan_bersejarah_museum_makam_wali": [
+          {
+            "nama": "Pura Besakih",
+            "deskripsi": "Pura terbesar dan terpenting di Bali",
+            "gambar": "https://example.com/purabesakih.jpg"
+          }
+        ],
+        "mall": [
+          {
+            "nama": "Beachwalk Shopping Center",
+            "deskripsi": "Mall modern dekat Pantai Kuta",
+            "gambar": "https://example.com/beachwalk.jpg"
+          }
+        ],
+        "hotel": [
+          {
+            "nama": "The Westin Resort Nusa Dua",
+            "deskripsi": "Hotel bintang 5 dengan fasilitas mewah",
+            "gambar": "https://example.com/westinbali.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "nama_daerah": "Kota Jakarta Selatan",
+      "gambar": ["https://example.com/jktselatan1.jpg", "https://example.com/jktselatan2.jpg"],
+      "wisata": {
+        "restoran_kuliner_jajanan": [
+          {
+            "nama": "Nasi Uduk Betawi Haji Sulaiman",
+            "deskripsi": "Kuliner khas Betawi yang terkenal",
+            "gambar": "https://example.com/nasiuduk.jpg"
+          }
+        ],
+        "gunung": [],
+        "danau_pantai": [
+          {
+            "nama": "Danau Babakan",
+            "deskripsi": "Danau alami di kawasan Jakarta Selatan",
+            "gambar": "https://example.com/danaubabakan.jpg"
+          }
+        ],
+        "bangunan_bersejarah_museum_makam_wali": [
+          {
+            "nama": "Museum Satria Mandala",
+            "deskripsi": "Museum sejarah militer Indonesia",
+            "gambar": "https://example.com/museumsatriamandala.jpg"
+          }
+        ],
+        "mall": [
+          {
+            "nama": "Pondok Indah Mall",
+            "deskripsi": "Mall besar dan populer di Jakarta Selatan",
+            "gambar": "https://example.com/pondokindahmall.jpg"
+          }
+        ],
+        "hotel": [
+          {
+            "nama": "Hotel Mulia Senayan",
+            "deskripsi": "Hotel mewah di Jakarta Selatan",
+            "gambar": "https://example.com/hotelmulia.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "nama_daerah": "Kabupaten Bandung",
+      "gambar": ["https://example.com/bandung1.jpg", "https://example.com/bandung2.jpg"],
+      "wisata": {
+        "restoran_kuliner_jajanan": [
+          {
+            "nama": "Batagor Kingsley",
+            "deskripsi": "Kuliner khas Bandung berupa bakso tahu goreng",
+            "gambar": "https://example.com/batagorkingsley.jpg"
+          }
+        ],
+        "gunung": [
+          {
+            "nama": "Gunung Tangkuban Perahu",
+            "deskripsi": "Gunung berapi dengan kawah yang terkenal",
+            "gambar": "https://example.com/tangkubanperahu.jpg"
+          }
+        ],
+        "danau_pantai": [
+          {
+            "nama": "Situ Patenggang",
+            "deskripsi": "Danau indah di pegunungan Bandung",
+            "gambar": "https://example.com/situpatenggang.jpg"
+          }
+        ],
+        "bangunan_bersejarah_museum_makam_wali": [
+          {
+            "nama": "Gedung Sate",
+            "deskripsi": "Bangunan bersejarah yang menjadi ikon Kota Bandung",
+            "gambar": "https://example.com/gedungsate.jpg"
+          }
+        ],
+        "mall": [
+          {
+            "nama": "Paris Van Java Mall",
+            "deskripsi": "Mall populer dengan banyak brand internasional",
+            "gambar": "https://example.com/parisvanjava.jpg"
+          }
+        ],
+        "hotel": [
+          {
+            "nama": "Hotel Grand Preanger",
+            "deskripsi": "Hotel legendaris di pusat kota Bandung",
+            "gambar": "https://example.com/grandpreanger.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "nama_daerah": "Kota Surabaya",
+      "gambar": ["https://example.com/surabaya1.jpg", "https://example.com/surabaya2.jpg"],
+      "wisata": {
+        "restoran_kuliner_jajanan": [
+          {
+            "nama": "Rujak Cingur Ahmad Jais",
+            "deskripsi": "Kuliner khas Surabaya yang unik",
+            "gambar": "https://example.com/rujakcingur.jpg"
+          }
+        ],
+        "gunung": [],
+        "danau_pantai": [
+          {
+            "nama": "Pantai Kenjeran",
+            "deskripsi": "Pantai yang menjadi tujuan wisata populer di Surabaya",
+            "gambar": "https://example.com/pantaikenjeran.jpg"
+          }
+        ],
+        "bangunan_bersejarah_museum_makam_wali": [
+          {
+            "nama": "Museum Sampoerna",
+            "deskripsi": "Museum sejarah rokok dan keluarga Sampoerna",
+            "gambar": "https://example.com/museumsampoerna.jpg"
+          }
+        ],
+        "mall": [
+          {
+            "nama": "Tunjungan Plaza",
+            "deskripsi": "Mall terbesar di Surabaya",
+            "gambar": "https://example.com/tunjunganplaza.jpg"
+          }
+        ],
+        "hotel": [
+          {
+            "nama": "Hotel Majapahit",
+            "deskripsi": "Hotel bersejarah di Surabaya",
+            "gambar": "https://example.com/hotelmajapahit.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "nama_daerah": "Kota Medan",
+      "gambar": ["https://example.com/medan1.jpg", "https://example.com/medan2.jpg"],
+      "wisata": {
+        "restoran_kuliner_jajanan": [
+          {
+            "nama": "Durian Ucok",
+            "deskripsi": "Kuliner durian terkenal di Medan",
+            "gambar": "https://example.com/durianucok.jpg"
+          }
+        ],
+        "gunung": [
+          {
+            "nama": "Gunung Sibayak",
+            "deskripsi": "Gunung dengan pemandian air panas alami",
+            "gambar": "https://example.com/gunungsibayak.jpg"
+          }
+        ],
+        "danau_pantai": [
+          {
+            "nama": "Danau Toba",
+            "deskripsi": "Danau vulkanik terbesar di Indonesia",
+            "gambar": "https://example.com/danautoba.jpg"
+          }
+        ],
+        "bangunan_bersejarah_museum_makam_wali": [
+          {
+            "nama": "Makam Maimun",
+            "deskripsi": "Makam sultan dan peninggalan bersejarah",
+            "gambar": "https://example.com/makammaimun.jpg"
+          }
+        ],
+        "mall": [
+          {
+            "nama": "Sun Plaza",
+            "deskripsi": "Mall besar di pusat Kota Medan",
+            "gambar": "https://example.com/sunplaza.jpg"
+          }
+        ],
+        "hotel": [
+          {
+            "nama": "Hotel Aryaduta",
+            "deskripsi": "Hotel bintang 5 di Medan",
+            "gambar": "https://example.com/aryaduta.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "nama_daerah": "Kabupaten Bali Baru",
+      "gambar": ["https://example.com/balibaru1.jpg", "https://example.com/balibaru2.jpg"],
+      "wisata": {
+        "restoran_kuliner_jajanan": [
+          {
+            "nama": "Bebek Bengil",
+            "deskripsi": "Restoran terkenal dengan bebek goreng crispy",
+            "gambar": "https://example.com/bebekbengil.jpg"
+          }
+        ],
+        "gunung": [
+          {
+            "nama": "Gunung Batukaru",
+            "deskripsi": "Gunung suci yang sering dijadikan tempat ritual",
+            "gambar": "https://example.com/gunungbatukaru.jpg"
+          }
+        ],
+        "danau_pantai": [
+          {
+            "nama": "Pantai Lovina",
+            "deskripsi": "Pantai dengan pemandangan lumba-lumba",
+            "gambar": "https://example.com/pantailovina.jpg"
+          }
+        ],
+        "bangunan_bersejarah_museum_makam_wali": [
+          {
+            "nama": "Pura Ulun Danu Beratan",
+            "deskripsi": "Pura yang ikonik di tepi Danau Beratan",
+            "gambar": "https://example.com/puraulundanu.jpg"
+          }
+        ],
+        "mall": [
+          {
+            "nama": "Mal Bali Galeria",
+            "deskripsi": "Mall besar di Bali dengan berbagai toko",
+            "gambar": "https://example.com/malbali.jpg"
+          }
+        ],
+        "hotel": [
+          {
+            "nama": "Hotel Puri Santrian",
+            "deskripsi": "Hotel mewah di dekat pantai Sanur",
+            "gambar": "https://example.com/purisantrian.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "nama_daerah": "Kabupaten Malang",
+      "gambar": ["https://example.com/malang1.jpg", "https://example.com/malang2.jpg"],
+      "wisata": {
+        "restoran_kuliner_jajanan": [
+          {
+            "nama": "Bakso President",
+            "deskripsi": "Bakso legendaris di Malang",
+            "gambar": "https://example.com/baksopresident.jpg"
+          }
+        ],
+        "gunung": [
+          {
+            "nama": "Gunung Semeru",
+            "deskripsi": "Gunung tertinggi di Pulau Jawa",
+            "gambar": "https://example.com/gunungsemeru.jpg"
+          }
+        ],
+        "danau_pantai": [
+          {
+            "nama": "Pantai Balekambang",
+            "deskripsi": "Pantai indah dengan pura di atas batu karang",
+            "gambar": "https://example.com/pantaibalekambang.jpg"
+          }
+        ],
+        "bangunan_bersejarah_museum_makam_wali": [
+          {
+            "nama": "Museum Malang Tempo Doeloe",
+            "deskripsi": "Museum yang memamerkan sejarah Malang",
+            "gambar": "https://example.com/museummalang.jpg"
+          }
+        ],
+        "mall": [
+          {
+            "nama": "Mall Olympic Garden",
+            "deskripsi": "Mall modern di Malang",
+            "gambar": "https://example.com/mallolympicgarden.jpg"
+          }
+        ],
+        "hotel": [
+          {
+            "nama": "Hotel Tugu Malang",
+            "deskripsi": "Hotel berkonsep sejarah dan seni",
+            "gambar": "https://example.com/hoteltugu.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "nama_daerah": "Kota Yogyakarta",
+      "gambar": ["https://example.com/yogyakarta1.jpg", "https://example.com/yogyakarta2.jpg"],
+      "wisata": {
+        "restoran_kuliner_jajanan": [
+          {
+            "nama": "Gudeg Yu Djum",
+            "deskripsi": "Makanan khas Yogyakarta dari nangka muda",
+            "gambar": "https://example.com/gudegyudjum.jpg"
+          }
+        ],
+        "gunung": [
+          {
+            "nama": "Gunung Merapi",
+            "deskripsi": "Gunung berapi aktif dekat Yogyakarta",
+            "gambar": "https://example.com/gunungmerapi.jpg"
+          }
+        ],
+        "danau_pantai": [],
+        "bangunan_bersejarah_museum_makam_wali": [
+          {
+            "nama": "Keraton Yogyakarta",
+            "deskripsi": "Istana resmi Sultan Yogyakarta",
+            "gambar": "https://example.com/keratonyogyakarta.jpg"
+          }
+        ],
+        "mall": [
+          {
+            "nama": "Malioboro Mall",
+            "deskripsi": "Pusat perbelanjaan di pusat kota",
+            "gambar": "https://example.com/malioboromall.jpg"
+          }
+        ],
+        "hotel": [
+          {
+            "nama": "Hotel Phoenix Yogyakarta",
+            "deskripsi": "Hotel bersejarah bergaya kolonial",
+            "gambar": "https://example.com/hotelphoenix.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "nama_daerah": "Kota Semarang",
+      "gambar": ["https://example.com/semarang1.jpg", "https://example.com/semarang2.jpg"],
+      "wisata": {
+        "restoran_kuliner_jajanan": [
+          {
+            "nama": "Lumpia Semarang",
+            "deskripsi": "Kuliner khas Semarang berupa lumpia",
+            "gambar": "https://example.com/lumpiasemarang.jpg"
+          }
+        ],
+        "gunung": [],
+        "danau_pantai": [],
+        "bangunan_bersejarah_museum_makam_wali": [
+          {
+            "nama": "Lawang Sewu",
+            "deskripsi": "Bangunan bersejarah peninggalan Belanda",
+            "gambar": "https://example.com/lawangsewu.jpg"
+          }
+        ],
+        "mall": [
+          {
+            "nama": "Mall Ciputra Semarang",
+            "deskripsi": "Mall besar di Semarang",
+            "gambar": "https://example.com/mallciputra.jpg"
+          }
+        ],
+        "hotel": [
+          {
+            "nama": "Hotel Santika Premiere",
+            "deskripsi": "Hotel bintang 4 di Semarang",
+            "gambar": "https://example.com/santika.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "nama_daerah": "Kota Makassar",
+      "gambar": ["https://example.com/makassar1.jpg", "https://example.com/makassar2.jpg"],
+      "wisata": {
+        "restoran_kuliner_jajanan": [
+          {
+            "nama": "Coto Makassar",
+            "deskripsi": "Sup khas Makassar dengan kuah kental",
+            "gambar": "https://example.com/cotomakassar.jpg"
+          }
+        ],
+        "gunung": [],
+        "danau_pantai": [
+          {
+            "nama": "Pantai Losari",
+            "deskripsi": "Pantai populer di Makassar",
+            "gambar": "https://example.com/pantailosari.jpg"
+          }
+        ],
+        "bangunan_bersejarah_museum_makam_wali": [
+          {
+            "nama": "Fort Rotterdam",
+            "deskripsi": "Benteng peninggalan zaman Belanda",
+            "gambar": "https://example.com/fortrotterdam.jpg"
+          }
+        ],
+        "mall": [
+          {
+            "nama": "Mall Panakkukang",
+            "deskripsi": "Mall besar di Makassar",
+            "gambar": "https://example.com/panakkukang.jpg"
+          }
+        ],
+        "hotel": [
+          {
+            "nama": "Hotel Aryaduta Makassar",
+            "deskripsi": "Hotel bintang 5 di Makassar",
+            "gambar": "https://example.com/aryadutamakassar.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "nama_daerah": "Kabupaten Lombok Tengah",
+      "gambar": ["https://example.com/lombok1.jpg", "https://example.com/lombok2.jpg"],
+      "wisata": {
+        "restoran_kuliner_jajanan": [
+          {
+            "nama": "Ayam Taliwang",
+            "deskripsi": "Makanan khas Lombok pedas dan lezat",
+            "gambar": "https://example.com/ayamtaliwang.jpg"
+          }
+        ],
+        "gunung": [
+          {
+            "nama": "Gunung Rinjani",
+            "deskripsi": "Gunung tertinggi kedua di Indonesia",
+            "gambar": "https://example.com/gunungrinjani.jpg"
+          }
+        ],
+        "danau_pantai": [
+          {
+            "nama": "Pantai Senggigi",
+            "deskripsi": "Pantai indah dengan pasir putih",
+            "gambar": "https://example.com/pantaisenggigi.jpg"
+          }
+        ],
+        "bangunan_bersejarah_museum_makam_wali": [],
+        "mall": [],
+        "hotel": [
+          {
+            "nama": "Hotel Santika Senggigi",
+            "deskripsi": "Hotel nyaman dan fasilitas lengkap",
+            "gambar": "https://example.com/santikahotel.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "nama_daerah": "Kabupaten Belitung",
+      "gambar": ["https://example.com/belitung1.jpg", "https://example.com/belitung2.jpg"],
+      "wisata": {
+        "restoran_kuliner_jajanan": [
+          {
+            "nama": "Mie Belitung",
+            "deskripsi": "Mie khas Belitung dengan kuah kental",
+            "gambar": "https://example.com/miebelitung.jpg"
+          }
+        ],
+        "gunung": [],
+        "danau_pantai": [
+          {
+            "nama": "Pantai Tanjung Tinggi",
+            "deskripsi": "Pantai dengan batu granit yang unik",
+            "gambar": "https://example.com/pantaitanjungtinggi.jpg"
+          }
+        ],
+        "bangunan_bersejarah_museum_makam_wali": [],
+        "mall": [],
+        "hotel": [
+          {
+            "nama": "Hotel BW Luxury Belitung",
+            "deskripsi": "Hotel modern di pusat kota Belitung",
+            "gambar": "https://example.com/bwbelitung.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "nama_daerah": "Kabupaten Bandung Barat",
+      "gambar": ["https://example.com/bandungbarat1.jpg", "https://example.com/bandungbarat2.jpg"],
+      "wisata": {
+        "restoran_kuliner_jajanan": [
+          {
+            "nama": "Sate Maranggi",
+            "deskripsi": "Sate khas yang populer di Bandung Barat",
+            "gambar": "https://example.com/satemaranggi.jpg"
+          }
+        ],
+        "gunung": [
+          {
+            "nama": "Gunung Tangkuban Perahu",
+            "deskripsi": "Gunung dengan pemandangan kawah",
+            "gambar": "https://example.com/tangkubanperahu2.jpg"
+          }
+        ],
+        "danau_pantai": [],
+        "bangunan_bersejarah_museum_makam_wali": [],
+        "mall": [
+          {
+            "nama": "Istana Plaza",
+            "deskripsi": "Mall populer di Bandung Barat",
+            "gambar": "https://example.com/istanaplaza.jpg"
+          }
+        ],
+        "hotel": [
+          {
+            "nama": "Hotel Santika Bandung Barat",
+            "deskripsi": "Hotel nyaman dan dekat wisata alam",
+            "gambar": "https://example.com/santikabandungbarat.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "nama_daerah": "Kota Palembang",
+      "gambar": ["https://example.com/palembang1.jpg", "https://example.com/palembang2.jpg"],
+      "wisata": {
+        "restoran_kuliner_jajanan": [
+          {
+            "nama": "Pempek Pak Raden",
+            "deskripsi": "Kuliner khas Palembang terkenal di seluruh Indonesia",
+            "gambar": "https://example.com/pempekpakraden.jpg"
+          }
+        ],
+        "gunung": [],
+        "danau_pantai": [
+          {
+            "nama": "Sungai Musi",
+            "deskripsi": "Sungai besar yang menjadi ikon kota Palembang",
+            "gambar": "https://example.com/sungaimusi.jpg"
+          }
+        ],
+        "bangunan_bersejarah_museum_makam_wali": [
+          {
+            "nama": "Benteng Kuto Besak",
+            "deskripsi": "Benteng peninggalan Kesultanan Palembang",
+            "gambar": "https://example.com/bentengkuto.jpg"
+          }
+        ],
+        "mall": [
+          {
+            "nama": "Palembang Trade Center",
+            "deskripsi": "Pusat perbelanjaan utama di Palembang",
+            "gambar": "https://example.com/ptc.jpg"
+          }
+        ],
+        "hotel": [
+          {
+            "nama": "Hotel Aryaduta Palembang",
+            "deskripsi": "Hotel mewah dekat pusat kota",
+            "gambar": "https://example.com/aryadutapalembang.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "nama_daerah": "Kabupaten Jayapura",
+      "gambar": ["https://example.com/jayapura1.jpg", "https://example.com/jayapura2.jpg"],
+      "wisata": {
+        "restoran_kuliner_jajanan": [],
+        "gunung": [
+          {
+            "nama": "Gunung Cyclops",
+            "deskripsi": "Gunung dengan hutan tropis yang lebat",
+            "gambar": "https://example.com/gunungcyclops.jpg"
+          }
+        ],
+        "danau_pantai": [
+          {
+            "nama": "Pantai Base-G",
+            "deskripsi": "Pantai berpasir putih di distrik Jayapura",
+            "gambar": "https://example.com/pantaibaseg.jpg"
+          }
+        ],
+        "bangunan_bersejarah_museum_makam_wali": [],
+        "mall": [],
+        "hotel": [
+          {
+            "nama": "Hotel Horison Ultima",
+            "deskripsi": "Hotel modern di Jayapura",
+            "gambar": "https://example.com/hotelhorison.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "nama_daerah": "Kabupaten Kutai Kartanegara",
+      "gambar": ["https://example.com/kutai1.jpg", "https://example.com/kutai2.jpg"],
+      "wisata": {
+        "restoran_kuliner_jajanan": [
+          {
+            "nama": "Soto Banjar",
+            "deskripsi": "Kuliner khas Kalimantan Selatan",
+            "gambar": "https://example.com/sotobanjarmasin.jpg"
+          }
+        ],
+        "gunung": [],
+        "danau_pantai": [
+          {
+            "nama": "Sungai Mahakam",
+            "deskripsi": "Sungai terbesar di Kalimantan Timur",
+            "gambar": "https://example.com/sungaimahakam.jpg"
+          }
+        ],
+        "bangunan_bersejarah_museum_makam_wali": [],
+        "mall": [],
+        "hotel": [
+          {
+            "nama": "Hotel Bumi Senyiur",
+            "deskripsi": "Hotel di Tenggarong dengan fasilitas lengkap",
+            "gambar": "https://example.com/bumisenyiur.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "nama_daerah": "Kota Denpasar",
+      "gambar": ["https://example.com/denpasar1.jpg", "https://example.com/denpasar2.jpg"],
+      "wisata": {
+        "restoran_kuliner_jajanan": [
+          {
+            "nama": "Warung Nasi Ayam Ibu Oki",
+            "deskripsi": "Kuliner ayam khas Bali yang enak",
+            "gambar": "https://example.com/nasiayamibuoki.jpg"
+          }
+        ],
+        "gunung": [],
+        "danau_pantai": [
+          {
+            "nama": "Pantai Sanur",
+            "deskripsi": "Pantai tenang dengan pemandangan sunrise",
+            "gambar": "https://example.com/pantaisanur.jpg"
+          }
+        ],
+        "bangunan_bersejarah_museum_makam_wali": [
+          {
+            "nama": "Museum Bali",
+            "deskripsi": "Museum seni dan budaya Bali",
+            "gambar": "https://example.com/museumbali.jpg"
+          }
+        ],
+        "mall": [
+          {
+            "nama": "Mal Bali Galeria",
+            "deskripsi": "Mall besar dan lengkap di Denpasar",
+            "gambar": "https://example.com/malbali2.jpg"
+          }
+        ],
+        "hotel": [
+          {
+            "nama": "Hotel Inna Bali",
+            "deskripsi": "Hotel dengan fasilitas lengkap dan lokasi strategis",
+            "gambar": "https://example.com/hotelinna.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "nama_daerah": "Kabupaten Sleman",
+      "gambar": ["https://example.com/sleman1.jpg", "https://example.com/sleman2.jpg"],
+      "wisata": {
+        "restoran_kuliner_jajanan": [
+          {
+            "nama": "Bakpia Pathok",
+            "deskripsi": "Kue khas Yogyakarta yang terkenal",
+            "gambar": "https://example.com/bakpiapathok.jpg"
+          }
+        ],
+        "gunung": [
+          {
+            "nama": "Gunung Merapi",
+            "deskripsi": "Gunung berapi aktif di dekat Sleman",
+            "gambar": "https://example.com/gunungmerapi2.jpg"
+          }
+        ],
+        "danau_pantai": [],
+        "bangunan_bersejarah_museum_makam_wali": [
+          {
+            "nama": "Candi Prambanan",
+            "deskripsi": "Candi Hindu terbesar di Indonesia",
+            "gambar": "https://example.com/candiprambanan.jpg"
+          }
+        ],
+        "mall": [],
+        "hotel": [
+          {
+            "nama": "Hotel Saphir Yogyakarta",
+            "deskripsi": "Hotel bintang 4 dekat wisata Sleman",
+            "gambar": "https://example.com/saphiryogyakarta.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "nama_daerah": "Kota Bogor",
+      "gambar": ["https://example.com/bogor1.jpg", "https://example.com/bogor2.jpg"],
+      "wisata": {
+        "restoran_kuliner_jajanan": [
+          {
+            "nama": "Tauge Goreng Bogor",
+            "deskripsi": "Kuliner khas Kota Bogor",
+            "gambar": "https://example.com/taupegorengbogor.jpg"
+          }
+        ],
+        "gunung": [],
+        "danau_pantai": [
+          {
+            "nama": "Danau Situ Gede",
+            "deskripsi": "Danau yang asri di Kota Bogor",
+            "gambar": "https://example.com/danusitedeg.jpg"
+          }
+        ],
+        "bangunan_bersejarah_museum_makam_wali": [
+          {
+            "nama": "Istana Bogor",
+            "deskripsi": "Istana kepresidenan dengan taman luas",
+            "gambar": "https://example.com/istanabogor.jpg"
+          }
+        ],
+        "mall": [
+          {
+            "nama": "Botani Square Mall",
+            "deskripsi": "Mall di pusat Kota Bogor",
+            "gambar": "https://example.com/botanipr.jpg"
+          }
+        ],
+        "hotel": [
+          {
+            "nama": "Hotel Salak The Heritage",
+            "deskripsi": "Hotel nyaman dekat pusat kota",
+            "gambar": "https://example.com/salakheritage.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "nama_daerah": "Kabupaten Gianyar",
+      "gambar": ["https://example.com/gianyar1.jpg", "https://example.com/gianyar2.jpg"],
+      "wisata": {
+        "restoran_kuliner_jajanan": [
+          {
+            "nama": "Bebek Tepi Sawah",
+            "deskripsi": "Restoran dengan pemandangan sawah di Gianyar",
+            "gambar": "https://example.com/bebektepisawah.jpg"
+          }
+        ],
+        "gunung": [],
+        "danau_pantai": [],
+        "bangunan_bersejarah_museum_makam_wali": [
+          {
+            "nama": "Pura Tirta Empul",
+            "deskripsi": "Pura suci dengan mata air suci",
+            "gambar": "https://example.com/watertemple.jpg"
+          }
+        ],
+        "mall": [],
+        "hotel": [
+          {
+            "nama": "Hotel Royal Pita Maha",
+            "deskripsi": "Hotel mewah dengan pemandangan sawah dan Sungai Ayung",
+            "gambar": "https://example.com/royalpita.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "nama_daerah": "Kabupaten Banyuwangi",
+      "gambar": ["https://example.com/banyuwangi1.jpg", "https://example.com/banyuwangi2.jpg"],
+      "wisata": {
+        "restoran_kuliner_jajanan": [
+          {
+            "nama": "Nasi Tempong",
+            "deskripsi": "Kuliner pedas khas Banyuwangi",
+            "gambar": "https://example.com/nastempong.jpg"
+          }
+        ],
+        "gunung": [
+          {
+            "nama": "Gunung Ijen",
+            "deskripsi": "Gunung yang terkenal dengan kawah biru dan api biru",
+            "gambar": "https://example.com/gunungijen.jpg"
+          }
+        ],
+        "danau_pantai": [
+          {
+            "nama": "Pantai Pulau Merah",
+            "deskripsi": "Pantai dengan bukit kecil berwarna merah",
+            "gambar": "https://example.com/pantaipulaumerah.jpg"
+          }
+        ],
+        "bangunan_bersejarah_museum_makam_wali": [],
+        "mall": [],
+        "hotel": [
+          {
+            "nama": "Hotel Santika Banyuwangi",
+            "deskripsi": "Hotel nyaman dengan fasilitas lengkap",
+            "gambar": "https://example.com/santikabanyuwangi.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "nama_daerah": "Kabupaten Bandung Timur",
+      "gambar": ["https://example.com/bandungtimur1.jpg", "https://example.com/bandungtimur2.jpg"],
+      "wisata": {
+        "restoran_kuliner_jajanan": [
+          {
+            "nama": "Bakso Rindu Malam",
+            "deskripsi": "Bakso terkenal di Bandung Timur",
+            "gambar": "https://example.com/baksorindumalam.jpg"
+          }
+        ],
+        "gunung": [
+          {
+            "nama": "Gunung Papandayan",
+            "deskripsi": "Gunung dengan pemandangan kawah dan padang bunga",
+            "gambar": "https://example.com/gunungpapandayan.jpg"
+          }
+        ],
+        "danau_pantai": [
+          {
+            "nama": "Situ Cileunca",
+            "deskripsi": "Danau alami indah di daerah pegunungan",
+            "gambar": "https://example.com/situcileunca.jpg"
+          }
+        ],
+        "bangunan_bersejarah_museum_makam_wali": [],
+        "mall": [],
+        "hotel": [
+          {
+            "nama": "Hotel Grand Sunshine",
+            "deskripsi": "Hotel dengan fasilitas modern",
+            "gambar": "https://example.com/grandsunshine.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "nama_daerah": "Kabupaten Mimika",
+      "gambar": ["https://example.com/mimika1.jpg", "https://example.com/mimika2.jpg"],
+      "wisata": {
+        "restoran_kuliner_jajanan": [],
+        "gunung": [
+          {
+            "nama": "Gunung Lorentz",
+            "deskripsi": "Gunung tertinggi di Papua dan UNESCO World Heritage Site",
+            "gambar": "https://example.com/gununglorentz.jpg"
+          }
+        ],
+        "danau_pantai": [
+          {
+            "nama": "Teluk Youtefa",
+            "deskripsi": "Teluk dengan pemandangan indah di Timika",
+            "gambar": "https://example.com/telukyoutefa.jpg"
+          }
+        ],
+        "bangunan_bersejarah_museum_makam_wali": [],
+        "mall": [],
+        "hotel": [
+          {
+            "nama": "Hotel Grand Mozza",
+            "deskripsi": "Hotel nyaman di Timika",
+            "gambar": "https://example.com/grandmozza.jpg"
+          }
+        ]
+      }
+    }
+  ]
+
+  
